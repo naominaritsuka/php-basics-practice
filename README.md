@@ -7,7 +7,7 @@ COACHTECH 教材 Tutorial 7-1「PHPの基礎 ハンズオン演習」で作成�
 
 ## 使用技術
 - PHP 8.x
-- HTML
+- HTML5
 
 ## 学んだこと
 - 変数を使った計算処理
